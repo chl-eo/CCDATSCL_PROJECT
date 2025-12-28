@@ -1,0 +1,29 @@
+date,day,shed_count,adherence,routine_steps_done,hair_length_inches,scalp_image,image_density_score,breakage_observed,wash_day,hair_products,meds_supplements,sleep_hours,stress_10,notes
+12/1/2025,1,5,TRUE,Scalp Tonic (Volumising),,,,,No,Naturals Volumising Hair and Scalp Tonic,No,8,1,
+12/2/2025,2,8,FALSE,,,,,,No,,No,9,1,
+12/3/2025,3,4,FALSE,,,,,,No,,No,4,5,
+12/4/2025,4,8,FALSE,,,,,,No,,No,8,8,
+12/5/2025,5,52,TRUE,"Shampoo, Hair Mask, Hair Oil, Scalp Tonic (Anti-Hair Fall)",,,,,Yes,"Luxe Organic Clarifying Shampoo, Cream Silk Hair Mask, Bremod Hair Oil, Naturals Anti-Hair Fall Hair and Scalp Tonic",No,10,5,
+12/6/2025,6,11,TRUE,Scalp Tonic (Volumising),,,,,No,Naturals Volumising Hair and Scalp Tonic,No,7,4,
+12/7/2025,7,42,FALSE,"Shampoo, Conditioner, Scalp Tonic (Anti-Hair Fall)",28,,20 (0-20 Very sparse scalp visible),Yes,Yes,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Naturals Anti-Hair Fall Hair and Scalp Tonic",No,8,6,130 total of shed count
+12/8/2025,8,15,TRUE,"Leave in Conditioner, Scalp Tonic (Volumising)",,,,,No,"Zenutrients Leave in Conditioner, Naturals Volumising Hair and Scalp Tonic",No,9,8,
+12/9/2025,9,3,TRUE,Leave in Conditioner,,,,,No,Zenutrients Leave in Conditioner,No,6,5,
+12/10/2025,10,37,TRUE,"Shampoo, Conditioner, Hair Oil, Scalp Tonic (Anti-Hair Fall)",,,,,Yes,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Bremod Hair Oil, Naturals Anti-Hair Fall Hair and Scalp Tonic",No,8,7,
+12/11/2025,11,6,TRUE,"Hair Mask, Scalp Tonic (Volumising), Hair Oil",,,,,No,"Cream Silk Hair Mask, Naturals Volumising Hair and Scalp Tonic, Bremod Hair Oil",No,6,6,
+12/12/2025,12,4,FALSE,,,,,,No,,No,9,7,
+12/13/2025,13,32,TRUE,"Shampoo, Conditioner, Scalp Tonic (Anti-Hair Fall)",,,,,Yes,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Naturals Anti-Hair Fall Hair and Scalp Tonic",No,11,4,
+12/14/2025,14,9,TRUE,Scalp Tonic (Volumising),28.2,,36 (21-40 Sparse),No,No,Naturals Volumising Hair and Scalp Tonic,No,8,2,106 total of shed count
+12/15/2025,15,27,FALSE,"Shampoo, Conditioner, Scalp Tonic (Anti-Hair Fall), Hair Oil",,,,,Yes,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Naturals Anti-Hair Fall Hair and Scalp Tonic, Bremod Hair Oil",No,0,9,
+12/16/2025,16,13,TRUE,Scalp Tonic (Volumising),,,,,No,Naturals Volumising Hair and Scalp Tonic,No,13,7,
+12/17/2025,17,7,TRUE,,,,,,No,,No,7,3,
+12/18/2025,18,25,TRUE,"Shampoo, Conditioner, Hair Oil, Scalp Tonic (Anti-Hair Fall)",,,,,Yes,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Bremod Hair Oil, Naturals Anti-Hair Fall Hair and Scalp Tonic",No,6,4,
+12/19/2025,19,8,TRUE,,,,,,No,,No,8,1,
+12/20/2025,20,2,TRUE,,,,,,No,,No,9,1,
+12/21/2025,21,39,TRUE,"Shampoo, Conditioner, Hair Oil, Scalp Tonic (Anti-Hair Fall)",28.5,,28 (21-40 Sparse),Yes,Yes,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Bremod Hair Oil, Naturals Anti-Hair Fall Hair and Scalp Tonic",No,11,2,121 total of shed count
+12/22/2025,22,6,TRUE,,,,,,No,,No,8,2,
+12/23/2025,23,37,FALSE,"Shampoo, Conditioner, Hair Oil, Scalp Tonic (Volumising)",,,,,Yes,"Luxe Organic Curl Conditioner, Bremod Hair Oil, Naturals Volumising Hair and Scalp Tonic, Empress Shampoo",No,3,2,
+12/24/2025,24,16,TRUE,"Shampoo, Hair Mask, Hair Oil, Scalp Tonic (Volumising)",,,,,Yes,"Cream Silk Hair Mask, Bremod Hair Oil, Naturals Volumising Hair and Scalp Tonic, Empress Shampoo",No,10,4,
+12/25/2025,25,3,TRUE,,,,,,No,,No,9,4,
+12/26/2025,26,29,TRUE,"Shampoo, Conditioner, Hair Oil, Scalp Tonic (Volumising)",,,,,No,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Bremod Hair Oil, Naturals Volumising Hair and Scalp Tonic",No,7,8,
+12/27/2025,27,5,TRUE,"Leave in Conditioner, Hair Oil",,,,,Yes,"Zenutrients Leave in Conditioner, Bremod Hair Oil",No,7,2,
+12/28/2025,28,29,FALSE,"Shampoo, Conditioner, Scalp Tonic (Volumising), Hair Oil",29.1,,32 (21-40 Sparse),Yes,No,"Luxe Organic Clarifying Shampoo, Luxe Organic Curl Conditioner, Bremod Hair Oil, Naturals Volumising Hair and Scalp Tonic",No,6,2,125 total of shed count
