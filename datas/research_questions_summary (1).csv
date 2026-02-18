@@ -1,0 +1,11 @@
+Research Question,Finding,Change,Statistical Test,p-value,Significant,Effect Size
+RQ1: Overall Effectiveness,Baseline mean: 22.2 → Intervention mean: 15.5,-30.4%,Mann-Whitney U test,0.0543,✗,d = 0.488
+RQ2: Best Routine Steps,Best: leave_in_conditioner | Worst: scalp_tonic_antihairfall,N/A,Point-biserial correlation,See detailed results,Varies,See correlations
+RQ3: Optimal Combination,Best profile: none,N/A,Multiple regression,0.0000,✓,R² = 0.663
+RQ4: Stress Correlation,r = +0.221 (Weak),Higher stress → Higher shed,Pearson correlation,0.0430,✓,r = 0.221
+RQ5: Sleep → Next-Day Shed,Lagged r = -0.050,More sleep → Less shed,Lagged Pearson correlation,0.6527,✗,r = -0.050
+RQ6: Combined Stress+Sleep,Best model: Combined,R² improvement: +3.21%,Multiple regression comparison,See model comparison,✓,R² = 0.081
+RQ7: Strongest Factor,Strongest: Adherence,See standardized coefficients,Standardized regression,See detailed results,Varies,See β values
+RQ8: Adherence Correlation,r = +0.332,Adherent: 22.8 vs Non: 13.2,Point-biserial correlation,0.0021,✓,r = 0.332
+RQ9: Non-Adherence Next-Day,After non-adherent: 16.6 vs After adherent: 15.6,+1.0 hairs,Independent t-test,0.7538,✗,See comparison
+RQ10: Density vs Shedding,r = -0.419,Density trend: +1.41/week | Shed trend: -0.55/week,Pearson correlation,0.2281,✗,r = -0.419

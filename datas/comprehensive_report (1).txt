@@ -1,0 +1,154 @@
+
+================================================================================
+HAIR CARE ROUTINE ANALYSIS - COMPREHENSIVE REPORT
+A Data-Driven Evaluation of a 3-Month Hair-Care Routine for Reducing Hair Loss
+================================================================================
+
+STUDY OVERVIEW
+--------------
+• Study Duration: 2025-11-16 to 2026-02-08
+• Total Days Tracked: 84
+• Baseline Period: 14 days (Weeks 1-2)
+• Intervention Period: 70 days (Weeks 3+)
+• Overall Adherence Rate: 35.7%
+
+================================================================================
+RESEARCH QUESTION RESULTS
+================================================================================
+
+RQ1: OVERALL EFFECTIVENESS
+--------------------------
+Question: Does average daily shed count significantly decrease from baseline to intervention end?
+
+Results:
+• Baseline Mean: 22.21 hairs/day (SD = 16.87)
+• Intervention Mean: 15.47 hairs/day (SD = 13.15)
+• Change: -30.4%
+• Statistical Test: Mann-Whitney U test
+• p-value: 0.0543
+• Effect Size (Cohen's d): 0.488
+• Conclusion: No significant reduction detected
+
+--------------------------------------------------------------------------------
+
+RQ2: ROUTINE STEPS CORRELATION
+------------------------------
+Question: Which routine steps correlate with reduced shedding?
+
+Top Steps (Negative correlation = reduces shedding):
+                         correlation   p_value mean_with_step mean_without_step
+leave_in_conditioner        -0.11335  0.304599          11.75         17.105263
+hair_mask                  -0.073193   0.50819      15.333333         17.411765
+scalp_tonic_volumising      0.015849  0.886217      17.066667         16.492754
+hair_oil                    0.406143  0.000126          21.24          9.764706
+conditioner                 0.518633       0.0           26.0          11.09434
+shampoo                     0.591393       0.0       23.87234          7.351351
+scalp_tonic_antihairfall     0.65217       0.0          38.75         12.902778
+
+--------------------------------------------------------------------------------
+
+RQ3: OPTIMAL ROUTINE COMBINATION
+--------------------------------
+Question: Is there an optimal combination of routine steps for minimizing shedding?
+
+Regression Model R²: 0.6627
+Best Routine Profile: none
+
+--------------------------------------------------------------------------------
+
+RQ4: STRESS CORRELATION
+-----------------------
+Question: Is there a significant correlation between stress levels and shed count?
+
+• Pearson r: 0.2213 (p = 0.0430)
+• Spearman ρ: 0.2285 (p = 0.0365)
+• Interpretation: Weak correlation
+• Conclusion: Significant
+
+--------------------------------------------------------------------------------
+
+RQ5: SLEEP → NEXT-DAY SHEDDING
+------------------------------
+Question: Does sleep duration affect next-day shedding?
+
+• Same-day correlation: r = 0.1740 (p = 0.1134)
+• Lagged correlation (sleep → next day shed): r = -0.0501 (p = 0.6527)
+• Conclusion: Immediate effect detected
+
+--------------------------------------------------------------------------------
+
+RQ6: COMBINED STRESS + SLEEP PREDICTION
+---------------------------------------
+Question: Do stress and sleep together predict shed count better than individually?
+
+Model Comparison:
+• Stress only R²: 0.0490
+• Sleep only R²: 0.0303
+• Combined R²: 0.0811
+• R² Improvement: +3.21%
+• Best Model: Combined
+
+--------------------------------------------------------------------------------
+
+RQ7: STRONGEST FACTOR IDENTIFICATION
+------------------------------------
+Question: Which factor has the strongest influence on shedding?
+
+Standardized Coefficients (absolute value = importance):
+   Factor  Std_Coefficient  p-value
+Adherence         4.237850 0.004602
+   Stress         3.086706 0.031923
+    Sleep         1.494771 0.306970
+
+🏆 Strongest Factor: Adherence
+
+--------------------------------------------------------------------------------
+
+RQ8: ADHERENCE CORRELATION
+--------------------------
+Question: Does higher routine adherence correlate with lower shed counts?
+
+• Point-biserial r: 0.3317 (p = 0.0021)
+• Adherent days mean: 22.77
+• Non-adherent days mean: 13.17
+• Conclusion: Significant relationship
+
+--------------------------------------------------------------------------------
+
+RQ9: NON-ADHERENCE → NEXT-DAY EFFECT
+------------------------------------
+Question: Does breaking routine lead to increased shedding in following days?
+
+• After adherent day: 15.60 hairs
+• After non-adherent day: 16.58 hairs
+• Difference: +0.98 hairs
+
+--------------------------------------------------------------------------------
+
+RQ10: DENSITY SCORE VS SHED COUNT
+---------------------------------
+Question: Is there a relationship between density score improvement and shed count reduction?
+
+• Correlation: r = -0.4190 (p = 0.2281)
+• Density Trend: +1.41 points/week
+• Shed Trend: -0.55 hairs/week
+
+================================================================================
+STUDY LIMITATIONS
+================================================================================
+1. Single-subject study (n=1) - results may not generalize
+2. Baseline period lacks scalp density and hair length measurements
+3. Wash day vs non-wash day shed counts are not directly comparable
+4. Product variations throughout study period
+5. Relatively short intervention period (70 days)
+
+================================================================================
+CONCLUSIONS
+================================================================================
+✓ The routine showed a 30.4% reduction in average daily shed count.
+✓ Adherence was identified as the strongest predictor of shed count.
+✓ Adherence significantly correlate with shed count.
+
+================================================================================
+Generated on: 2026-02-17 13:16:59
+================================================================================
